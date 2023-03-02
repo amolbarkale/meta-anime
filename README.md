@@ -1,4 +1,5 @@
 ## Live demo: https://amolb-metaverse.vercel.app/
+#tailwind #nextjs 13 #react #framer-motion
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
